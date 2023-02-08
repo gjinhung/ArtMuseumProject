@@ -25,4 +25,4 @@ Test this out by navigating to a route like `/not-found`. You should see "Page
 Not Found" and not "Harvard Art Museum". At `/galleries/:galleryId`, you should
 see the name of the gallery and not "Harvard Art Museum".
 
-[switch]: https://reactrouter.com/web/api/Switch
+[switch]: https://v5.reactrouter.com/web/api/Switch
